@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenna Lewis (@kennalewi)
 - 👀 I’m interested in creating art and games using Python, and C
-- 🌱 I’m currently learning the Processing 3 coding environment
+- 🌱 I’m currently learning the HTML, CSS, and JavaScript
 
 <!---
 kennalewi/kennalewi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
